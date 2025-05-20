@@ -1,0 +1,15 @@
+{
+  "name": "chatroom-project",
+  "version": "1.0.0",
+  "description": "Real-time chat room application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2",
+    "mongoose": "^7.5.0",
+    "dotenv": "^16.3.1"
+  }
+} 
